@@ -35,7 +35,7 @@ projeto/
 
 4. **Acesse sua aplicação** em:
    ```
-   https://[seu-usuario].github.io/[nome-repositorio]/
+   https://rpgouveia.github.io/lfp_practice/
    ```
 
 ## 🔧 Funcionalidades
